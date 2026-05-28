@@ -66,9 +66,14 @@
       "autoria": "Mãe"
     },
     {
-      "conteudo": "Teste",
+      "id": "LguZLDD4kEQ",
+      "conteudo": "Pode fazer o pull na main",
+      "autoria": "Dev"
+    },
+    {
+      "conteudo": "Git add, commit, push, merge e pull",
       "autoria": "Dev",
-      "id": "LguZLDD4kEQ"
+      "id": "pMBscO-NFQM"
     }
   ],
   "$schema": "./node_modules/json-server/schema.json"
